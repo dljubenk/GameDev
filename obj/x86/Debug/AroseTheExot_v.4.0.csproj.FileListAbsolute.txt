@@ -1,0 +1,14 @@
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\AroseTheExot_v.4.0.exe
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\AroseTheExot_v.4.0.pdb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\obj\x86\Debug\AroseTheExot_v.4.0.exe
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\obj\x86\Debug\AroseTheExot_v.4.0.pdb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Adam_sprite.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\health.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Ooball.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Backgrounds\Background1.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Backgrounds\Background2.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Backgrounds\Background3.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Backgrounds\Background4.xnb
+H:\MaMa Projekt\AroseTheExot_v.4.0\AroseTheExot_v.4.0\AroseTheExot_v.4.0\bin\x86\Debug\Content\Backgrounds\Background5.xnb
